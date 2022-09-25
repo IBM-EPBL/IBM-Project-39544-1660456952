@@ -1,1 +1,15 @@
+# IBM-Project-39544-1660456952
+# Hazardous Area Monitoring for Industrial Plant powered by IoT
 
+# Assignment 1.
+# Three Sensor - Temperature sensor , Ultrasonic Distance Sensor , PIR Sensor
+# Two LED
+# One Buzzer 
+# In Arduino 
+# Using Tinkercat
+# C++ language
+# Working Successfully
+
+# Assignment 2.
+#Build a python code, Assume u get temperature and humidity values (generated with random function to a variable) 
+# condition to continuously detect alarm in case of high temperature.
