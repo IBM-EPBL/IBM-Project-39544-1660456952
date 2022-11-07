@@ -1,1 +1,11 @@
 
+# IBM-Project-39544-1660456952
+# Hazardous Area Monitoring for Industrial Plant powered by IoT
+# Sprint - 2
+
+ # In this sprint
+ # we are getting Temperature and Humidity as input from the ESP32 using wokwi which is considered to get the input from the environment condition.
+ # Wokwi 
+ # ESP32
+ # sensor - DHT22
+ # updated in Cloud
