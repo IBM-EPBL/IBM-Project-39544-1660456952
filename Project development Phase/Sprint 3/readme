@@ -1,1 +1,10 @@
-
+# IBM-Project-39544-1660456952
+# Hazardous Area Monitoring for Industrial Plant powered by IoT
+# sprint-3
+# In this sprint gather the data from the cloud 
+# data's are temperature and humidity from the environment as well as the worker's body temperature and haert rate
+# also we created a web ui using node 
+# In this web ui , we created an dashboard for our project
+# the dashboard link : https://node-red-zhcmy-2022-10-30.eu-gb.mybluemix.net/ui
+# In the dashboard, it shows the real updated values
+# and also attached the Alarm ON and Alarm OFF button 
