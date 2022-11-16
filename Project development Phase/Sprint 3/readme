@@ -8,3 +8,6 @@
 # the dashboard link : https://node-red-zhcmy-2022-10-30.eu-gb.mybluemix.net/ui
 # In the dashboard, it shows the real updated values
 # and also attached the Alarm ON and Alarm OFF button 
+# if the sensor value is deviated from the normal , send an alert email to the admin 
+# email is an additional secuirity for monitoring 
+# Instead of using the fast 2 sms , we are using the email 
